@@ -23,7 +23,7 @@ git clone ~
 cd src  
 分類：python main.py      
 生成：cd rnn    
-     python classify.py  
+     python rnn.py  
 
 毒性などのラベルがついたSMILES記法のデータを用意し，ラベルごとにファイルを作成しておく．
 
