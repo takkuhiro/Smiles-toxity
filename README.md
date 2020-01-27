@@ -18,12 +18,12 @@ SMILES記法に関して：https://ja.wikipedia.org/wiki/SMILES記法
  
 # Usage
  
-bash
-git clone ~
-cd src
-分類：python main.py    
-生成：cd rnn  
-     python classify.py
+bash  
+git clone ~  
+cd src  
+分類：python main.py      
+生成：cd rnn    
+     python classify.py  
 
 毒性などのラベルがついたSMILES記法のデータを用意し，ラベルごとにファイルを作成しておく．
 
