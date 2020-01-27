@@ -1,4 +1,4 @@
-# Smiles-toxity-classify
+# Smiles-toxity
 SMILES記法で表された分子構造を用いて学習し，  
  - 毒性の有無を指定して新しい物質を生み出す*生成*言語モデル  
  - 毒性の有無を判定する*分類*モデル
