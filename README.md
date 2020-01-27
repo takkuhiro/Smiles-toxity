@@ -21,7 +21,7 @@ SMILES記法に関して：https://ja.wikipedia.org/wiki/SMILES記法
 bash
 git clone ~
 cd src
-分類：python main.py  
+分類：python main.py    
 生成：cd rnn  
      python classify.py
 
